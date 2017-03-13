@@ -11,23 +11,23 @@ The NHANES program began in the early 1960s and has been conducted as a series o
 The NHANES interview includes demographic, socioeconomic, dietary, and health-related questions. The examination component consists of medical, dental, and physiological measurements, as well as laboratory tests administered by highly trained medical personnel.
 
 
-# Search variables
+### Search variables
 https://wwwn.cdc.gov/Nchs/Nhanes/Search/Default.aspx
 
-# Demographic variable list
+### Demographic variable list
 https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Demographics&CycleBeginYear=2013
 
-# Diet variable list
+### Diet variable list
 https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Dietary&CycleBeginYear=2013
 
-# Examinations
+### Examinations
 https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Examination&CycleBeginYear=2013
 
-# Lab
+### Lab
 https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Laboratory&CycleBeginYear=2013
 
-# Questionnaire
+### Questionnaire
 https://wwwn.cdc.gov/Nchs/Nhanes/Search/variablelist.aspx?Component=Questionnaire&CycleBeginYear=2013
 
-# On Kaggle
+### On Kaggle
 https://www.kaggle.com/cdc/national-health-and-nutrition-examination-survey
